@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Feriados API//Belo Horizonte//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Feriados Belo Horizonte
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+UID:20260101-Ano-Novo@feriadosapi.com
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260101
+SUMMARY:Ano Novo
+DESCRIPTION:O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR - Feriado NACIONAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260216-Segunda-de-Carnaval@feriadosapi.com
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260216
+SUMMARY:Segunda de Carnaval
+DESCRIPTION:Ponto Facultativo nas repartições públicas - Feriado FACULTATIVO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260217-Carnaval@feriadosapi.com
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260217
+SUMMARY:Carnaval
+DESCRIPTION:Ponto facultativo. Feriado bancário FEBRABAN - agências não funcionam. - Feriado FACULTATIVO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260218-Quarta-feira-de-Cinzas@feriadosapi.com
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260218
+SUMMARY:Quarta-feira de Cinzas
+DESCRIPTION:Ponto facultativo. Feriado bancário FEBRABAN - agências abrem somente após o meio-dia. - Feriado FACULTATIVO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260402-Quinta-feira-Santa@feriadosapi.com
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260402
+SUMMARY:Quinta-feira Santa
+DESCRIPTION:Ponto facultativo nacional frequentemente adotado por estados e municípios. Na tradição cristã, marca a Instituição da Eucaristia e do Sacerdócio, iniciando o Tríduo Pascal. Em 2026, a data ocorre em 2 de abril. - Feriado FACULTATIVO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260403-Sexta-feira-Santa@feriadosapi.com
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260403
+SUMMARY:Sexta-feira Santa
+DESCRIPTION:conforme Lei Municipal nº 1.327 de 08/02/1967 - Feriado MUNICIPAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260405-Domingo-de-Pascoa@feriadosapi.com
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260405
+SUMMARY:Domingo de Páscoa
+DESCRIPTION:Celebração cristã da ressurreição de Jesus Cristo. Data móvel que serve de base para o cálculo do Carnaval, Sexta-feira Santa e Corpus Christi. - Feriado FACULTATIVO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260421-Dia-de-Tiradentes@feriadosapi.com
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260421
+SUMMARY:Dia de Tiradentes
+DESCRIPTION:Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional. - Feriado NACIONAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260501-Dia-Mundial-do-Trabalho@feriadosapi.com
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+SUMMARY:Dia Mundial do Trabalho
+DESCRIPTION:Feriado nacional instituído originariamente pelo Decreto nº 4.859 de 1924 e posteriormente consolidado pela Lei Federal nº 662 de 1949, com redação atual dada pela Lei Federal nº 10.607 de 2002. A data homenageia a luta histórica dos trabalhadores por direitos fundamentais e melhores condições laborais, sendo um marco civil de reflexão sobre a dignidade do trabalho no Brasil e no mundo. - Feriado NACIONAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260604-Corpus-Christi@feriadosapi.com
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260604
+SUMMARY:Corpus Christi
+DESCRIPTION:conforme Lei Municipal nº 1.327 de 08/02/1967 - Feriado MUNICIPAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260815-Assunção-de-Nossa-Senhora@feriadosapi.com
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260815
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:conforme Lei Municipal nº 1.327 de 08/02/1967 - Feriado MUNICIPAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-Independência-do-Brasil@feriadosapi.com
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260907
+SUMMARY:Independência do Brasil
+DESCRIPTION:O Dia da Indepência do Brasil, officially a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado "Grito do Ipiranga". - Feriado NACIONAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012-Nossa-Senhora-Aparecida@feriadosapi.com
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261012
+SUMMARY:Nossa Senhora Aparecida
+DESCRIPTION:Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980. - Feriado NACIONAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-Dia-do-Professor@feriadosapi.com
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:Dia do Professor
+DESCRIPTION:FERIADO ESCOLAR - No dia 15 de outubro de 1827 (dia consagrado à educadora Santa Teresa de Ávila), o Imperador do Brasil, Pedro I, baixou um Decreto Imperial que criou o Ensino Elementar no Brasil. Pelo decreto, "todas as cidades, vilas e lugarejos teriam suas escolas de primeiras letras" - Feriado FACULTATIVO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028-Dia-do-Servidor-Público@feriadosapi.com
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261028
+SUMMARY:Dia do Servidor Público
+DESCRIPTION:Dia do Servidor Público - art. 249 da Lei Municipal nº 2.215/1991. O dia do servidor público é feriado apenas para funcionários públicos. - Feriado FACULTATIVO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-Dia-de-Finados@feriadosapi.com
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261102
+SUMMARY:Dia de Finados
+DESCRIPTION:O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional. - Feriado NACIONAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261115-Proclamação-da-República@feriadosapi.com
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261115
+SUMMARY:Proclamação da República
+DESCRIPTION:A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II. - Feriado NACIONAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-Dia-Nacional-de-Zumbi-e-da-Consciência-Negra@feriadosapi.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:Dia Nacional de Zumbi e da Consciência Negra
+DESCRIPTION:Dia Nacional de Zumbi ou Dia da Consciência Negra é Feriado Nacional, conforme Lei 14.759/2023 - Feriado NACIONAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208-Imaculada-Conceição@feriadosapi.com
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261208
+SUMMARY:Imaculada Conceição
+DESCRIPTION:conforme Lei Municipal nº 1.327 de 08/02/1967 - Feriado MUNICIPAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225-Natal@feriadosapi.com
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261225
+SUMMARY:Natal
+DESCRIPTION:O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré. - Feriado NACIONAL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261231-Após-o-meio-dia,-Véspera-de-Ano-Novo@feriadosapi.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+SUMMARY:Após o meio-dia, Véspera de Ano Novo
+DESCRIPTION:De acordo com o Decreto nº 18882-E de 01 de junho de 2015 - Feriado FACULTATIVO
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
